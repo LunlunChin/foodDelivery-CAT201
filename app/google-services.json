@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449677312405",
+    "project_id": "lunfood-251a1",
+    "storage_bucket": "lunfood-251a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449677312405:android:14c1d37e7a65730f97769c",
+        "android_client_info": {
+          "package_name": "com.example.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449677312405-7uoaf6eaprc6r9p73jdfi7tti5tj3v4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fooddelivery",
+            "certificate_hash": "7a8d0d93bd874a40037f67568bb63cda5cf00ed9"
+          }
+        },
+        {
+          "client_id": "449677312405-h33n56mjbk5kb61nbnosbpv6u1eihtul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnxz-opiY5ogvOUVG5Fu0HOst_IKqQRQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449677312405-h33n56mjbk5kb61nbnosbpv6u1eihtul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
